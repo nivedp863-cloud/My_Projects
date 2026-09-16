@@ -53,9 +53,7 @@ I’m looking forward to improving this project further by adding features such 
 
 #Python #Streamlit #OOP #PythonProject #WebDevelopment #DataScience #Programming #LearningPython #StudentProject #SoftwareDevelopment
 
-<img width="1917" height="1020" alt="Screenshot_4" src="https://github.com/user-attachments/assets/d189787f-314b-4baf-bf36-8dd1c36adc3b" />
-<img width="1917" height="907" alt="Screenshot_2" src="https://github.com/user-attachments/assets/e5ac3149-5bb9-4071-be1b-32e64c8954bf" />
-<img width="1917" height="903" alt="Screenshot_3" src="https://github.com/user-attachments/assets/42415a28-1d5a-4532-86ed-f1e4f4b94cdc" />
-<img width="1917" height="902" alt="Screenshot_1" src="https://github.com/user-attachments/assets/60a3264d-6956-4975-94ae-d21684b1bbae" />
-
-
+<img width="1917" height="902" alt="Screenshot_1" src="https://github.com/user-attachments/assets/2a413bfa-e9d9-42e3-9648-bb59418c68ca" />
+<img width="1917" height="907" alt="Screenshot_2" src="https://github.com/user-attachments/assets/00c5b30a-cbbe-418e-aa0a-df0e9fd296ad" />
+<img width="1917" height="903" alt="Screenshot_3" src="https://github.com/user-attachments/assets/a2f57580-8b11-44f5-9a98-06e77e857853" />
+<img width="1917" height="1020" alt="Screenshot_4" src="https://github.com/user-attachments/assets/8fdf2e42-2754-4320-a8f2-5f0961ab302d" />
