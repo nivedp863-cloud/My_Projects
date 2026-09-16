@@ -53,5 +53,9 @@ I’m looking forward to improving this project further by adding features such 
 
 #Python #Streamlit #OOP #PythonProject #WebDevelopment #DataScience #Programming #LearningPython #StudentProject #SoftwareDevelopment
 
+<img width="1917" height="1020" alt="Screenshot_4" src="https://github.com/user-attachments/assets/d189787f-314b-4baf-bf36-8dd1c36adc3b" />
+<img width="1917" height="907" alt="Screenshot_2" src="https://github.com/user-attachments/assets/e5ac3149-5bb9-4071-be1b-32e64c8954bf" />
+<img width="1917" height="903" alt="Screenshot_3" src="https://github.com/user-attachments/assets/42415a28-1d5a-4532-86ed-f1e4f4b94cdc" />
+<img width="1917" height="902" alt="Screenshot_1" src="https://github.com/user-attachments/assets/60a3264d-6956-4975-94ae-d21684b1bbae" />
 
 
